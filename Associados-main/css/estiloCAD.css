@@ -1,0 +1,18 @@
+.col-12 .btn{
+    background-color: black;
+    color: white;
+}
+
+.col-12{
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.g-3{
+    margin-top: 2rem;
+    padding: 2rem;
+}
+
+.navbar-dark{
+    background-color: black;
+}
