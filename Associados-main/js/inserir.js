@@ -20,7 +20,7 @@ var requestOptions = {
   redirect: 'follow'
 };
 
-fetch("https://www.rrpeinfo.com.br/web/APIAssociado/Inserir", requestOptions)
+fetch("https://www.rrpeinfo.com.br/web/APIAssociado/Cadastrar", requestOptions)
   .then(response => response.text())
   .then(result => console.log(result))
   .catch(error => console.log('error', error));

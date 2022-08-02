@@ -6,7 +6,7 @@ function logar() {
     console.log("Login: " + login + " - senha: " + senha);   
 
     var settings = {
-        "url": "https://www.rrpeinfo.com.br/web/APIAssociado/Validate",
+        "url": "https://www.rrpeinfo.com.br/web/APIAssociado/Validar",
         "method": "POST",
         "timeout": 0,
         "headers": {
